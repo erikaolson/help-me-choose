@@ -3,8 +3,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 20px;
-  background-color: #f2f2f2;
+  background-image: linear-gradient(to right top, #ac8fa9, #bb959c, #bca097, #b7ac9d, #b3b6ab);
+  height: 100vh;
 }
 
 h1 {
