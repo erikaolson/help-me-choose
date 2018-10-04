@@ -34,8 +34,18 @@ input{
   font-family: sans-serif;
 }
 
-.choose{
+.submit{
   margin-top: 10px;
   font-family: sans-serif;
   font-weight: bold;
+}
+
+.resultSection{
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-weight: lighter;
 }
