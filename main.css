@@ -8,15 +8,15 @@ body {
 }
 
 h1 {
-  font-weight: lighter;
   font-size: 40px;
-  font-family: sans-serif;
-  margin-bottom: 0px
+  font-weight: lighter;
+  font-family: 'PT Sans', sans-serif;
+  margin-bottom: 0px;
 }
 
 .inputSection {
 margin: 20px 0px 30px 0px;
-width: 300px;
+width: 200px;
 }
 
 .inputs{
@@ -31,12 +31,12 @@ input{
 
 .addOption{
   margin-top: 10px;
-  font-family: sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .submit{
   margin-top: 10px;
-  font-family: sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: bold;
 }
 
@@ -46,6 +46,6 @@ input{
   justify-content: center;
   align-items: center;
   font-size: 35px;
-  font-family: sans-serif;
+  font-family: 'Charmonman', cursive;
   font-weight: lighter;
 }
